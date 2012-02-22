@@ -1,6 +1,10 @@
 #!usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Author: William Herry
+# Date: 2012-2-22
+# Purpose: This script is going to generate some info of a game
+
 import re
 import urllib2
 import subprocess
